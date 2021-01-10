@@ -1,0 +1,15 @@
+# vim
+[._]*.sw[a-p]
+
+# python
+/venv/
+__pycache__/
+
+# FDroidSearchBot
+/config.ini
+/config.py
+/FDroidSearchBot.session
+/FDroidSearchBot.session-journal
+
+# F-Droid
+/index.xml
