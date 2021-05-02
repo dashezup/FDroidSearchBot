@@ -191,7 +191,7 @@ RESULT_ARTICLE_IZZY = InlineQueryResultArticle(
             ]
         ]
     ),
-    description="Free and Open Source Android App Repository",
+    description="IzzyOnDroid Android App Repository",
     thumb_url=THUMB_IZZY,
 )
 RESULTS_IZZY = [RESULT_ARTICLE_IZZY]

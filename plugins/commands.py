@@ -27,7 +27,7 @@ async def command_start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Select Chat to Use in inline Mode",
+                        "Select Chat to Use in Inline Mode",
                         switch_inline_query=""
                     )
                 ],
